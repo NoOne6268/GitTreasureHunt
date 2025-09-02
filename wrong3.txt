@@ -1,1 +1,0 @@
-❌ Dead end! To get back, run 'git checkout <hash-of-commit-6>'.
